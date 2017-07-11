@@ -1,0 +1,14 @@
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Release\XamarinBack01.dll
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Release\XamarinBack01.pdb
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Release\Xamarin.Forms.Core.dll
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Release\Xamarin.Forms.Platform.dll
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Release\Xamarin.Forms.Xaml.dll
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Release\Xamarin.Forms.Core.pdb
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Release\Xamarin.Forms.Core.xml
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Release\Xamarin.Forms.Platform.pdb
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Release\Xamarin.Forms.Xaml.pdb
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Release\Xamarin.Forms.Xaml.xml
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\obj\Release\XamarinBack01.MainPage.xaml.g.cs
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\obj\Release\XamarinBack01.App.xaml.g.cs
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\obj\Release\XamarinBack01.dll
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\obj\Release\XamarinBack01.pdb

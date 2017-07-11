@@ -1,0 +1,15 @@
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Debug\XamarinBack01.dll
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Debug\XamarinBack01.pdb
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Debug\Xamarin.Forms.Core.dll
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Debug\Xamarin.Forms.Core.xml
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\obj\Debug\XamarinBack01.csprojResolveAssemblyReference.cache
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\obj\Debug\XamarinBack01.MainPage.xaml.g.cs
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\obj\Debug\XamarinBack01.App.xaml.g.cs
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\obj\Debug\XamarinBack01.dll
+D:\Projetos SSAT MOBILE\XAMARIN\XamarinBack01\XamarinBack01\XamarinBack01\obj\Debug\XamarinBack01.pdb
