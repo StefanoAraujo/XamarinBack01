@@ -17,7 +17,7 @@ using System.Timers;
 
 namespace XamarinBack01.Droid
 {
-    [Service()]
+    [Service(Label = "XamarinBack01.Android.ServiceTest", Name = "XamarinBack01.Android.ServiceTest")]
     public class ServiceTest: Service
     {
         IBinder _binder;

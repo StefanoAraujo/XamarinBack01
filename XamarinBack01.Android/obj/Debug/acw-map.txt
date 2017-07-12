@@ -1,23 +1,23 @@
-XamarinBack01.Droid.MainActivity, XamarinBack01.Android;md55b13b6ea429ec7bbc1ed9c851b3765e8.MainActivity
-XamarinBack01.Droid.MainActivity, XamarinBack01.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55b13b6ea429ec7bbc1ed9c851b3765e8.MainActivity
-XamarinBack01.Droid.MainActivity;md55b13b6ea429ec7bbc1ed9c851b3765e8.MainActivity
-xamarinback01.droid.MainActivity;md55b13b6ea429ec7bbc1ed9c851b3765e8.MainActivity
-XamarinBack01.Droid.ReceiverCall, XamarinBack01.Android;md55b13b6ea429ec7bbc1ed9c851b3765e8.ReceiverCall
-XamarinBack01.Droid.ReceiverCall, XamarinBack01.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55b13b6ea429ec7bbc1ed9c851b3765e8.ReceiverCall
-XamarinBack01.Droid.ReceiverCall;md55b13b6ea429ec7bbc1ed9c851b3765e8.ReceiverCall
-xamarinback01.droid.ReceiverCall;md55b13b6ea429ec7bbc1ed9c851b3765e8.ReceiverCall
-XamarinBack01.Droid.ServiceTest, XamarinBack01.Android;md55b13b6ea429ec7bbc1ed9c851b3765e8.ServiceTest
-XamarinBack01.Droid.ServiceTest, XamarinBack01.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55b13b6ea429ec7bbc1ed9c851b3765e8.ServiceTest
-XamarinBack01.Droid.ServiceTest;md55b13b6ea429ec7bbc1ed9c851b3765e8.ServiceTest
-xamarinback01.droid.ServiceTest;md55b13b6ea429ec7bbc1ed9c851b3765e8.ServiceTest
-XamarinBack01.Droid.ServiceTest/ServiceTestBinder, XamarinBack01.Android;md55b13b6ea429ec7bbc1ed9c851b3765e8.ServiceTest_ServiceTestBinder
-XamarinBack01.Droid.ServiceTest+ServiceTestBinder, XamarinBack01.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55b13b6ea429ec7bbc1ed9c851b3765e8.ServiceTest_ServiceTestBinder
-XamarinBack01.Droid.ServiceTest.ServiceTestBinder;md55b13b6ea429ec7bbc1ed9c851b3765e8.ServiceTest_ServiceTestBinder
-xamarinback01.droid.ServiceTest_ServiceTestBinder;md55b13b6ea429ec7bbc1ed9c851b3765e8.ServiceTest_ServiceTestBinder
-XamarinBack01.Droid.ServiceTest/ServiceTestConnection, XamarinBack01.Android;md55b13b6ea429ec7bbc1ed9c851b3765e8.ServiceTest_ServiceTestConnection
-XamarinBack01.Droid.ServiceTest+ServiceTestConnection, XamarinBack01.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55b13b6ea429ec7bbc1ed9c851b3765e8.ServiceTest_ServiceTestConnection
-XamarinBack01.Droid.ServiceTest.ServiceTestConnection;md55b13b6ea429ec7bbc1ed9c851b3765e8.ServiceTest_ServiceTestConnection
-xamarinback01.droid.ServiceTest_ServiceTestConnection;md55b13b6ea429ec7bbc1ed9c851b3765e8.ServiceTest_ServiceTestConnection
+XamarinBack01.Droid.MainActivity, XamarinBack01.Android;XamarinBack01.Android.MainActivity
+XamarinBack01.Droid.MainActivity, XamarinBack01.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;XamarinBack01.Android.MainActivity
+XamarinBack01.Droid.MainActivity;XamarinBack01.Android.MainActivity
+XamarinBack01.Android.MainActivity;XamarinBack01.Android.MainActivity
+XamarinBack01.Droid.ReceiverCall, XamarinBack01.Android;XamarinBack01.Android.ReceiverCall
+XamarinBack01.Droid.ReceiverCall, XamarinBack01.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;XamarinBack01.Android.ReceiverCall
+XamarinBack01.Droid.ReceiverCall;XamarinBack01.Android.ReceiverCall
+XamarinBack01.Android.ReceiverCall;XamarinBack01.Android.ReceiverCall
+XamarinBack01.Droid.ServiceTest, XamarinBack01.Android;XamarinBack01.Android.ServiceTest
+XamarinBack01.Droid.ServiceTest, XamarinBack01.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;XamarinBack01.Android.ServiceTest
+XamarinBack01.Droid.ServiceTest;XamarinBack01.Android.ServiceTest
+XamarinBack01.Android.ServiceTest;XamarinBack01.Android.ServiceTest
+XamarinBack01.Droid.ServiceTest/ServiceTestBinder, XamarinBack01.Android;XamarinBack01.Android.ServiceTest_ServiceTestBinder
+XamarinBack01.Droid.ServiceTest+ServiceTestBinder, XamarinBack01.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;XamarinBack01.Android.ServiceTest_ServiceTestBinder
+XamarinBack01.Droid.ServiceTest.ServiceTestBinder;XamarinBack01.Android.ServiceTest_ServiceTestBinder
+XamarinBack01.Android.ServiceTest_ServiceTestBinder;XamarinBack01.Android.ServiceTest_ServiceTestBinder
+XamarinBack01.Droid.ServiceTest/ServiceTestConnection, XamarinBack01.Android;XamarinBack01.Android.ServiceTest_ServiceTestConnection
+XamarinBack01.Droid.ServiceTest+ServiceTestConnection, XamarinBack01.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;XamarinBack01.Android.ServiceTest_ServiceTestConnection
+XamarinBack01.Droid.ServiceTest.ServiceTestConnection;XamarinBack01.Android.ServiceTest_ServiceTestConnection
+XamarinBack01.Android.ServiceTest_ServiceTestConnection;XamarinBack01.Android.ServiceTest_ServiceTestConnection
 Android.Support.Design.Widget.Snackbar/SnackbarActionClickImplementor, Xamarin.Android.Support.Design;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar+SnackbarActionClickImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar.SnackbarActionClickImplementor;android.support.design.widget.Snackbar_SnackbarActionClickImplementor

@@ -9,27 +9,26 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
   <application android:label="XamarinBack01.Android" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
-    <activity android:label="XamarinBack01">
+    <activity android:label="XamarinBack01.Android.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <service android:name="ServiceTest"></service>
-    <receiver android:name="ReceiverCall" android:enabled="true" android:exported="false">
+    <service android:label="XamarinBack01.Android.ServiceTest" android:enabled="true" android:exported="true"></service>
+    <receiver android:label="XamarinBack01.Android.ReceiverCall" android:enabled="true" android:exported="true">
       <intent-filter>
-        <action android:name="com.android.XamarinBack01" />
         <action android:name="android.intent.action.BOOT_COMPLETED" />
       </intent-filter>
     </receiver>
-    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="XamarinBack01" android:theme="@style/MainTheme" android:name="md55b13b6ea429ec7bbc1ed9c851b3765e8.MainActivity">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="XamarinBack01.Android.MainActivity" android:name="XamarinBack01.Android.MainActivity" android:theme="@style/MainTheme">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <receiver android:name="md55b13b6ea429ec7bbc1ed9c851b3765e8.ReceiverCall" />
-    <service android:name="md55b13b6ea429ec7bbc1ed9c851b3765e8.ServiceTest" />
+    <receiver android:label="XamarinBack01.Android.ReceiverCall" android:name="XamarinBack01.Android.ReceiverCall" />
+    <service android:label="XamarinBack01.Android.ServiceTest" android:name="XamarinBack01.Android.ServiceTest" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="XamarinBack01.Android.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">

@@ -12,26 +12,28 @@ using Android.Widget;
 
 namespace XamarinBack01.Droid
 {
-    [BroadcastReceiver]
+    [BroadcastReceiver (Label = "XamarinBack01.Android.ReceiverCall", Name = "XamarinBack01.Android.ReceiverCall")]
     public class ReceiverCall : BroadcastReceiver
     {
         public override void OnReceive(Context context, Intent intent)
         {
-            //Toast.MakeText(context, "Received intent!", ToastLength.Short).Show();
+            Toast.MakeText(context, "Received intent!", ToastLength.Short).Show();
 
-            if(intent.Action.Equals(Intent.ActionBootCompleted))
-            //if ("android.intent.action.BOOT_COMPLETED".Equals(intent.Action))
-            //if (intent.Action.Equals("android.intent.action.BOOT_COMPLETED"))
-            {
-                Intent startServiceIntent = new Intent(Android.App.Application.Context, typeof(ServiceTest));
-                context.StartService(startServiceIntent);
-            }
-            else
-            {
-                context.StartService(new Intent(Android.App.Application.Context, typeof(ServiceTest)));
+            //if(intent.Action.Equals(Intent.ActionBootCompleted))
+            ////if ("android.intent.action.BOOT_COMPLETED".Equals(intent.Action))
+            ////if (intent.Action.Equals("android.intent.action.BOOT_COMPLETED"))
+            //{
+            //    Intent startServiceIntent = new Intent(Android.App.Application.Context, typeof(ServiceTest));
+            //    context.StartService(startServiceIntent);
+            //}
+            //else
+            //{
+            //    context.StartService(new Intent(Android.App.Application.Context, typeof(ServiceTest)));
 
-            }
+            //}
 
+            Intent startServiceIntent = new Intent(Android.App.Application.Context, typeof(ServiceTest));
+            context.StartService(startServiceIntent);
 
 
         }

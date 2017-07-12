@@ -11,7 +11,7 @@ using Xamarin.Forms.Platform.Android;
 
 namespace XamarinBack01.Droid
 {
-    [Activity(Label = "XamarinBack01", Icon = "@drawable/icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]    
+    [Activity(Name = "XamarinBack01.Android.MainActivity", Label = "XamarinBack01.Android.MainActivity", Icon = "@drawable/icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]    
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsApplicationActivity
     {
         protected override void OnCreate(Bundle bundle)

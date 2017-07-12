@@ -6,19 +6,16 @@
 	<uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
 	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 	<application android:label="XamarinBack01.Android">
-    <activity
-            android:label="XamarinBack01">
+    <activity android:label="XamarinBack01.Android.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <service android:name="ServiceTest" >
+    <service android:label="XamarinBack01.Android.ServiceTest" android:enabled="true" android:exported="true">
     </service>
-    <receiver android:name="ReceiverCall" android:enabled="true"
-            android:exported="false">
-      <intent-filter>
-        <action android:name="com.android.XamarinBack01" />
+    <receiver android:label="XamarinBack01.Android.ReceiverCall" android:enabled="true" android:exported="true">
+      <intent-filter>        
         <action android:name="android.intent.action.BOOT_COMPLETED" />
       </intent-filter>
     </receiver>
